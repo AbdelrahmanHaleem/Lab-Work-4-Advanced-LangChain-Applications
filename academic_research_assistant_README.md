@@ -25,12 +25,7 @@ A **LangChain-powered** AI research assistant that helps collect, synthesize, an
    cd academic-research-assistant
    ```
 
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Set up environment variables:  
+2. Set up environment variables:  
    - Create a `.env` file:  
      ```bash
      touch .env
