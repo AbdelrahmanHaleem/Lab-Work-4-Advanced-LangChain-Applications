@@ -108,14 +108,3 @@ python support_system.py
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-## License
-[Specify your license, e.g., MIT, Apache 2.0]
-
-## Contact
-For support or inquiries, contact [your contact information]
-
----
-
-### 🚀 Powered by LangChain and Groq
-Intelligent enterprise support, reimagined.
