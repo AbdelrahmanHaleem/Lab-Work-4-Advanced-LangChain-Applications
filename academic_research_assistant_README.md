@@ -21,7 +21,7 @@ A **LangChain-powered** AI research assistant that helps collect, synthesize, an
 ### **Setup**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo/academic-research-assistant.git
+   git clone https://github.com/AbdelrahmanHaleem/Lab-Work-4-Advanced-LangChain-Applications
    cd academic-research-assistant
    ```
 
